@@ -1,0 +1,6 @@
+if SHIELD_JFKB3
+
+config ZMK_KEYBOARD_NAME
+    default "JFKB3"
+
+endif
